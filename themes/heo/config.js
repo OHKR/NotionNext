@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { 标题: '欢迎来到我的博客', url: '' },
-    { 标题: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { 标题: '欢迎来到我的博客', url: 'https://notion-next-ten-jet-39.vercel.app/' },
+    { 标题: 'Welcome to BaiZang's Blog', url: 'https://notion-next-ten-jet-39.vercel.app/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
